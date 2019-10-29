@@ -1,0 +1,24 @@
+{
+    "bars": [
+        {
+            "label": "0-4",
+            "value": 40,
+            "color": "#ff0000"
+        },
+        {
+            "label": "4-6",
+            "value": 40,
+            "color": "#ff0000"
+        },
+        {
+            "label": "6-8",
+            "value": 40,
+            "color": "#ff0000"
+        },
+        {
+            "label": "8-10",
+            "value": 40,
+            "color": "#ff0000"
+        }
+    ]
+}
